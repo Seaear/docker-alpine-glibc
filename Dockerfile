@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/runtime:5.0-alpine
+FROM mcr.microsoft.com/dotnet/core/runtime:3.1-alpine
 
 ENV LANG=C.UTF-8
 
